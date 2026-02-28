@@ -52,7 +52,7 @@ streamlit run streamlit_app.py
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{cntram2024,
+@article{cntram2026,
   title={Automated Identification of Nursing Diagnoses and Interventions from Nursing Records: A Retrieval-Augmented Large Language Model Approach},
   author={},
   journal={},
